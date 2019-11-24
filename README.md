@@ -2,11 +2,7 @@
 
 # Google令牌
 
-## #0 github
 
-```
-https://github.com/Coxhuang/google-authenticator.git
-```
 
 ## #1 使用操作
 
